@@ -1,6 +1,7 @@
 <?php
 namespace App\Controllers;
 use CodeIgniter\Controller;
+use CodeIgniter\Controllers;
 
 class Apis extends Controller
 {
